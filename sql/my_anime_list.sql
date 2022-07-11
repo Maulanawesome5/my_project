@@ -50,3 +50,10 @@ VALUES ("Corpse Party"); -- g, G, h, H, '_', "_"
 -- Modify table
 ALTER TABLE anime
 MODIFY anime_rating FLOAT NOT NULL DEFAULT 0.00;
+
+
+-- Modify data
+UPDATE anime
+SET studio = "SILVER LINK." WHERE id = 6;
+
+
