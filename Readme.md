@@ -21,9 +21,9 @@ Saya sertakan beberapa situs untuk belajar misalkan saja ada yang tertarik, sila
    * FreeCodeCamp : <https://www.youtube.com/c/Freecodecamp>
 
 2. Website
-   * Web 1 : <>
-   * Web 2 : <>
-   * Web 3 : <>
+   * Petani Kode : <https://www.petanikode.com/python-pomodoro/>
+   * Wikipedia : <https://id.wikipedia.org/wiki/Daftar_studio_animasi_Jepang>
+   * My Anime List : <https://myanimelist.net/>
 
 3. lainnya
 
