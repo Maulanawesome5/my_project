@@ -1,169 +1,55 @@
-Studio : White Fox
-Studio : Hoods Entertainment
-Studio : Hoods Entertainment
-Studio : Production I.G
-Studio : Production I.G
-Studio : Silver Link
-Studio : Sunrise
-Studio : Sunrise
-Studio : Sunrise
-Studio : Sunrise
-Studio : Sunrise
-Studio : Sunrise
-Studio : Sunrise
-Studio : Sunrise
-Studio : feel.
-Studio : A-1 Pictures, Trigger, CloverWorks
-Studio : AIC PLUS+
-Studio : Production IMS
-Studio : J.C. Staff
-Studio : GEEK TOYS
-Studio : Production IMS
-Studio : GEEK TOYS
-Studio : GEEK TOYS
-Studio : Arms
-Studio : GAINAX & Production I.G
-Studio : GAINAX & Production I.G
-Studio : Khara
-Studio : Khara
-Studio : Khara
-Studio : Khara
-Studio : A-1 Pictures
-Studio : Signal.MD
-Studio : Production I.G
-Studio : CloverWorks
-Studio : CloverWorks
-Studio : Studio Deen
-Studio : ufotable
-Studio : ufotable
-Studio : ufotable
-Studio : ufotable
-Studio : ufotable
-Studio : ufotable
-Studio : ufotable
-Studio : Production I.G.
-Studio : Production I.G.
-Studio : Production I.G.
-Studio : Production I.G.
-Studio : White Fox
-Studio : White Fox
-Studio : APPP
-Studio : Tezuka Productions
-Studio : Bilbury Animation Studios
-Studio : Production I.G
-Studio : Sunrise
-Studio : Sunrise
-Studio : White Fox
-Studio : Gonzo
-Studio : Graphinica
-Studio : Madhouse, Satelight, Graphinica
-Studio : TNK
-Studio : TNK
-Studio : TNK
-Studio : PASSIONE
-Studio : Madhouse
-Studio : Studio Deen
-Studio : Geneon Universal Entertainment
-Studio : Studio Deen
-Studio : PASSIONE
-Studio : PASSIONE
-Studio : Arms
-Studio : Arms
-Studio : 8bit
-Studio : 8bit
-Studio : 8bit
-Studio : 8bit
-Studio : 8bit
-Studio : 8bit
-Studio : Sunrise
-Studio : Sunrise
-Studio : Sunrise
-Studio : Sunrise
-Studio : Sunrise
-Studio : Sunrise
-Studio : TMS Entertainment
-Studio : Sunrise
-Studio : Ajia-Do
-Studio : LIDENFILMS
-Studio : Ufotable
-Studio : Ufotable
-Studio : Ufotable
-Studio : Madhouse
-Studio : Studio Deen
-Studio : Studio Deen
-Studio : J.C.Staff
-Studio : Studio Deen
-Studio : Studio Deen
-Studio : Arms
-Studio : asread
-Studio : SHAFT
-Studio : SHAFT
-Studio : SHAFT
-Studio : SHAFT
-Studio : SHAFT
-Studio : SHAFT
-Studio : SHAFT
-Studio : SHAFT
-Studio : SHAFT
-Studio : SHAFT
-Studio : SHAFT
-Studio : Madhouse
-Studio : Madhouse
-Studio : SHAFT
-Studio : SHAFT
-Studio : SHAFT
-Studio : Production I.G
-Studio : Seven
-Studio : Seven
-Studio : Madhouse
-Studio : Madhouse
-Studio : Madhouse
-Studio : Madhouse
-Studio : J.C. Staff
-Studio : Gonzo
-Studio : Gonzo
-Studio : A-1 Pictures
-Studio : A-1 Pictures
-Studio : Lerche
-Studio : TNK
-Studio : Seven Arcs
-Studio : J.C. Staff
-Studio : MAPPA
-Studio : J.C. Staff
-Studio : Production IMS
-Studio : Production IMS
-Studio : Production IMS
-Studio : Production IMS
-Studio : Production IMS
-Studio : White Fox
-Studio : White Fox
-Studio : White Fox
-Studio : SILVER LINK., Connect
-Studio : Barnum Studio, SILVER LINK., Connect
-Studio : SILVER LINK., Connect
-Studio : Connect
-Studio : Connect
-Studio : Connect
-Studio : A-1 Pictures
-Studio : A-1 Pictures
-Studio : A-1 Pictures
-Studio : A-1 Pictures
-Studio : A-1 Pictures
-Studio : A-1 Pictures
-Studio : A-1 Pictures
-Studio : A-1 Pictures
-Studio : SILVER LINK.
-Studio : Kinema Citrus
-Studio : Kinema Citrus, DR Movie
-Studio : LIDENFILMS
-Studio : Madhouse
-Studio : Seven Arcs Pictures
-Studio : Seven Arcs Pictures
-Studio : Seven Arcs Pictures
-Studio : Seven Arcs Pictures
-Studio : J.C. Staff
-Studio : Hoods Entertainment
-Studio : Production Reed
-Studio : Madhouse
-Studio : J.C. Staff
-Studio : Xebec
+White Fox;
+Hoods Entertainment;
+Production I.G;
+Silver Link;
+Sunrise;
+feel.;
+A-1 Pictures;
+Trigger;
+CloverWorks;
+AIC PLUS+;
+Production IMS;
+J.C.Staff;
+GEEK TOYS;
+NARA Animation;
+Arms;
+GAINAX;
+Khara;
+Signal.MD;
+Studio Deen;
+ufotable;
+APPP;
+Tezuka Productions;
+Bilbury Animation Studios;
+Gonzo;
+Graphinica;
+Madhouse;
+Satelight;
+TNK;
+PASSIONE;
+Geneon Universal Entertainment;
+8bit;
+TMS Entertainment;
+Ajia-Do;
+LIDENFILMS;
+asread;
+SHAFT;
+Madhouse;
+Seven;
+J.C. Staff;
+Gonzo;
+Lerche;
+TNK;
+Seven Arcs;
+MAPPA;
+Production IMS;
+SILVER LINK.;
+Connect;
+Barnum Studio;
+Kinema Citrus;
+DR Movie;
+LIDENFILMS;
+Seven Arcs Pictures;
+Hoods Entertainment;
+Production Reed;
+Xebec;
