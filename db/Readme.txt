@@ -27,7 +27,7 @@ Studio : Production I.G
 Title  : (Bofuri) Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu
 Rating : 7.56
 Airing : Winter 2020
-Studio : Silver Link
+Studio : SILVER LINK.
 
 Title  : Code Geass R1 - Hangyaku no Lelouch
 Rating : 8.70
@@ -97,7 +97,7 @@ Studio : Production IMS
 Title  : Date A Live 3
 Rating : 7.18
 Airing : Winter 2019
-Studio : J.C. Staff
+Studio : J.C.Staff
 
 Title  : Date A Live 4
 Rating : 7.85
@@ -232,22 +232,22 @@ Studio : ufotable
 Title  : Ghost in the Shell (Jap: Koukaku Kidoutai)
 Rating : 8.28
 Airing : Fall 1995
-Studio : Production I.G.
+Studio : Production I.G
 
 Title  : Ghost in the Shell 2 - Innocence
 Rating : 7.80
 Airing : Winter 2004
-Studio : Production I.G.
+Studio : Production I.G
 
 Title  : Ghost in the Shell - Stand Alone Complex
 Rating : -
 Airing : -
-Studio : Production I.G.
+Studio : Production I.G
 
 Title  : Ghost in the Shell - Stand Alone Complex 2nd GIG
 Rating : -
 Airing : -
-Studio : Production I.G.
+Studio : Production I.G
 
 Title  : Goblin Slayer
 Rating : 7.42
@@ -587,7 +587,7 @@ Studio : SHAFT
 Title  : Nobless
 Rating : 6.87
 Airing : Fall 2020
-Studio : Production I.g
+Studio : Production I.G
 
 Title  : Okusama ga Seitokaichou
 Rating : 6.60
@@ -622,7 +622,7 @@ Studio : Madhouse
 Title  : Prison School
 Rating : 7.62
 Airing : Summer 2015
-Studio : J.C. Staff
+Studio : J.C.Staff
 
 Title  : Rosario to Vampire 1
 Rating : 6.77
@@ -667,7 +667,7 @@ Studio : Seven Arcs
 Title  : Shimoneta to lu Gainen ga Sonzai Shinai Taikutsu na Sekai (Shimoseka)
 Rating : 7.27
 Airing : Summer 2015
-Studio : J.C. Staff
+Studio : J.C.Staff
 
 Title  : Shingeki no Bahamut - Genesis
 Rating : 7.63
@@ -677,7 +677,7 @@ Studio : MAPPA
 Title  : Shingetsutan Tsukihime
 Rating : 6.89
 Airing : Fall 2003
-Studio : J.C. Staff
+Studio : J.C.Staff
 
 Title  : Shinmai Maou no Testament 1
 Rating : 6.73
@@ -857,7 +857,7 @@ Studio : Seven Arcs Pictures
 Title  : Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? (Okaa-san online)
 Rating : 5.55
 Airing : Summer 2019
-Studio : J.C. Staff
+Studio : J.C.Staff
 
 Title  : Val x Love
 Rating : 5.90
@@ -877,7 +877,7 @@ Studio : Madhouse
 Title  : Witch Craft Works
 Rating : 7.02
 Airing : Winter 2014
-Studio : J.C. Staff
+Studio : J.C.Staff
 
 Title  : Yuragi sou no Yuuna-san
 Rating : 7.02
