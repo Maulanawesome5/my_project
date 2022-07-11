@@ -46,6 +46,8 @@ VALUES ("Code Geass R1 - Hangyaku no Lelouch", 8.70, "Fall 2006", "Sunrise"),
 INSERT INTO anime (anime_title)
 VALUES ("Corpse Party"); -- g, G, h, H, '_', "_"
 
+INSERT INTO anime (anime_title, anime_rating, airing_time, studio)
+VALUES ("Corpse Party - Missing Footage", 5.99, "Summer 2012", "asred");
 
 -- Modify table
 ALTER TABLE anime
@@ -55,5 +57,10 @@ MODIFY anime_rating FLOAT NOT NULL DEFAULT 0.00;
 -- Modify data
 UPDATE anime
 SET studio = "SILVER LINK." WHERE id = 6;
+
+UPDATE anime
+SET anime_title = "Corpse Party - Bougyakusareta Tamashii no Jukyou",
+anime_rating = 6.46, airing_time = "Summer 2013", studio = "asread"
+WHERE id = 15;
 
 
