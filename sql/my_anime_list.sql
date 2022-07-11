@@ -15,10 +15,12 @@ CREATE TABLE anime (
     PRIMARY KEY (id)
 ) ENGINE = InnoDB;
 
+
 -- accsess table
 SHOW CREATE TABLE anime;
 DESCRIBE anime;
 SELECT * FROM anime;
+
 
 -- insert data
 INSERT INTO anime (anime_title, anime_rating, airing_time, studio)
@@ -41,4 +43,10 @@ VALUES ("Code Geass R1 - Hangyaku no Lelouch", 8.70, "Fall 2006", "Sunrise"),
     ("Code Geass Boukoku no Akito 5 (Itoshiki Mono-tachi e)", 7.13, "2016", "Sunrise"),
     ("Code Geass Fukkatsu no Lelouch", 7.92, "2019", "Sunrise");
 
+INSERT INTO anime (anime_title)
+VALUES ("Corpse Party"); -- g, G, h, H, '_', "_"
 
+
+-- Modify table
+ALTER TABLE anime
+MODIFY anime_rating FLOAT NOT NULL DEFAULT 0.00;
