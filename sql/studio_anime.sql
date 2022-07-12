@@ -94,8 +94,11 @@ SELECT * FROM anime_studio ORDER BY studio_name;
 UPDATE anime_studio
 SET studio_name = "Bibury Animation Studios" WHERE id = 9;
 DELETE FROM anime_studio WHERE id = 34;
+UPDATE anime_studio
+SET country = "Japan" WHERE id < 145;
 
 
 -- modify table
--- ALTER TABLE anime_studio
--- ADD COLUMN country VARCHAR(20);
+ALTER TABLE anime_studio
+ADD COLUMN country VARCHAR(20);
+
