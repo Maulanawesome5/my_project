@@ -1,0 +1,10 @@
+{
+    "code-runner.runInTerminal": true,
+    "editor.fontSize": 16,
+    "editor.minimap.enabled": false,
+    "html.autoClosingTags": true,
+    "html.format.wrapLineLength": 120,
+    "html.suggest.html5": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "workbench.colorTheme": "Default Dark+",
+}
