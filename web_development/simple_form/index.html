@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <title>Simple Form</title>
+</head>
+<body>
+    <!-- <article> -->
+        <h1>Registration Form</h1>
+        <p>To our customers, please register yourself to take part in the lottery with prizes for the 5th anniversary of the company. Get a total prize of $ 5000 in bitcoins for every lucky person.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th class="header-label"></th>
+                    <th class="header-colon-sign"></th>
+                    <th class="header-widget"></th>
+                </tr>
+            </thead>
+            <form>
+                <tbody>
+                    <tr>
+                        <td class="rows-label"><label for="firstname">First Name</label></td>
+                        <td class="colon-sign">:</td>
+                        <td><input type="text" id="username"></td>
+                    </tr>
+                    <tr>
+                        <td class="rows-label"><label for="lastname">Last Name</label></td>
+                        <td class="colon-sign">:</td>
+                        <td><input type="text" id="lastname"></td>
+                    </tr>
+                    <tr>
+                        <td class="rows-label"><label for="email">Email</label></td>
+                        <td class="colon-sign">:</td>
+                        <td><input type="email" id="email"></td>
+                    </tr>
+                    <tr>
+                        <td class="rows-label"><label for="password">Password</label></td>
+                        <td class="colon-sign">:</td>
+                        <td><input type="password" id="password"></td>
+                    </tr>
+                    <tr>
+                        <td class="rows-label"><label for="gender">Gender</label></td>
+                        <td class="colon-sign">:</td>
+                        <td>
+                            <input type="radio" name="gender" id="male">Male
+                            <input type="radio" name="gender" id="female">Female
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="rows-label"><label for="birth-date">Birth Date</label></td>
+                        <td class="colon-sign">:</td>
+                        <td><input type="date" name="birth-date" id="birth-date"></td>
+                    </tr>
+                    <tr>
+                        <td class="rows-label"><label for="address">Address</label></td>
+                        <td class="colon-sign">:</td>
+                        <td><textarea name="address-home" id="address-home"></textarea></td>
+                    </tr>
+                    <tr>
+                        <td class="rows-label"><label for="profession">Profession</label></td>
+                        <td class="colon-sign">:</td>
+                        <td class="check_box">
+                            <input type="checkbox" name="profession" id="employee">Employee
+                            <input type="checkbox" name="profession" id="student">Student
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="rows-label"><label for="form-button"></label></td>
+                        <td class="colon-sign"></td>
+                        <td>
+                            <input type="button" value="Submit">
+                            <input type="button" value="Cancel">
+                        </td>
+                    </tr>
+                </tbody>
+            </form>
+        </table>
+    <!-- </article> -->
+</body>
+</html>

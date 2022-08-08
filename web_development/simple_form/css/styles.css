@@ -1,0 +1,42 @@
+.input_text {
+    width: 250px;
+}
+
+input[type="text"] {
+    width: 250px;
+}
+
+input[type="email"] {
+    width: 250px;
+}
+
+input[type="password"] {
+    width: 200px;
+}
+
+table {
+    /* border: 1px solid black; */
+    padding: 5pt;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+td.check_box {
+    place-content: justify;
+}
+
+td.colon-sign {
+    text-align: center;
+    padding: 5pt;
+    width: 10pt;
+}
+
+td.rows-label {
+    padding-right: 50pt;
+}
+
+textarea {
+    height: 50px;
+    width: 250px;
+}
