@@ -1,6 +1,7 @@
 {
-    "editor.fontSize": 15,
     "code-runner.runInTerminal": true,
+    "editor.fontSize": 15,
+    "editor.minimap.autohide": true,
     "python.defaultInterpreterPath": "D:/LATIHAN PEMROGRAMAN/Env/Scripts/python",
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "workbench.colorTheme": "Atom One Dark",
