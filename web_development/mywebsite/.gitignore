@@ -1,3 +1,4 @@
 # ignore any fcking shit directory
 mywebsite/templates/mywebsite
 mywebsite/static/mywebsite
+coba.py
