@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,6 +10,7 @@
 <body>
     <header>
         <h1>Welcome to My {{ header }}</h1>
+        <img src="{% static author_pics %}" alt="my_image">
         <p>Halo sobat dunia maya, saya {{fullname}}, seorang mahasiswa Teknik Informatika. Saat ini saya tertarik untuk belajar coding, terutama saat ini saya sedang tertarik untuk mempelajari web framework Django.</p>
     </header>
     <section id="about_me">

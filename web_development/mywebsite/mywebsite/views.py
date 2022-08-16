@@ -7,5 +7,6 @@ def index(request):
         "header" : "Portfolio\'s",
         "author" : "Maulana Aji W",
         "fullname" : "Maulana Aji Wicaksono",
+        "author_pics" : "mywebsite/img/DSC_0386.jpg",
     }
     return render(request, "index.html", context)
