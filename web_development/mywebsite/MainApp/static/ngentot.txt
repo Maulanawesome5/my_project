@@ -1,0 +1,6 @@
+FUCK PEOPLE : "GET /static/img/DSC_0368.JPG HTTP/1.1" 404 1807 
+
+Cannot load global static file. Son of bitch !!
+
+Edit:
+Succsess to load static file in this MainApp
