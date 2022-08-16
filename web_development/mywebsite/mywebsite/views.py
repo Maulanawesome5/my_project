@@ -6,5 +6,6 @@ def index(request):
         "title_site" : "Portfolio Site",
         "header" : "Portfolio\'s",
         "author" : "Maulana Aji W",
+        "fullname" : "Maulana Aji Wicaksono",
     }
     return render(request, "index.html", context)
