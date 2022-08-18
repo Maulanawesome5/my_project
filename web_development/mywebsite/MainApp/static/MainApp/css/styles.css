@@ -39,16 +39,107 @@ header p {
 }
 
 section {
-    background-color: crimson;
+    /* background-color: crimson; */
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 2%;
     padding-right: 2%;
-    font-family: "Tahoma";
 }
 
 section h2 {
+    font-family: "Franklin Gothic";
+    font-style: oblique;
     text-align: center;
+}
+
+section p {
+    font-family: "Archivo";
+    margin-left: 1cm;
+    word-spacing: 2pt;
+}
+
+section ol {
+    display: block;
+    font-family: "Archivo";
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    word-spacing: 2pt;
+    padding-left: 35%;
+}
+
+#ability li {
+    float: left;
+    list-style-type: none;
+    margin: 10px 10px;
+    text-align: center;
+}
+
+/* #education {background-color: cornsilk;} */
+
+#education table {
+    /* border: 2pt solid black; */
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    width: 500px;
+}
+
+/* #education h2 {font-family: "Franklin Gothic"; font-style: oblique;} */
+
+#education th {background-color: chocolate;}
+
+#education .education_info {font-size: 9pt;}
+
+/* #education p {font-family: "Archivo"; margin-left: 1cm; word-spacing: 2pt;} */
+
+/* #working_experience {background-color: darkslateblue;} */
+
+#working_experience table {
+    /* border: 2pt solid black; */
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    width: 500px;
+}
+
+/* #working_experience h2 {font-family: "Franklin Gothic"; font-style: oblique;} */
+
+#working_experience th {background-color: deeppink;}
+
+#working_experience .work_period {font-size: 9pt;}
+
+#working_experience .job-desc {font-size: 10pt; font-family: "Archivo";}
+
+/* #working_experience p {font-family: "Archivo"; margin-left: 1cm; word-spacing: 2pt;} */
+
+/* #contact_me {background-color: gold;} */
+
+#contact_me h2 {
+    font-family: "Franklin Gothic";
+    font-style: oblique;
+    text-align: center;
+}
+
+#contact_me table {
+    /* border: 2pt solid black; */
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    width: 500px;
+}
+
+#contact_me td {
+    text-align: center;
+    width: 50px;
+}
+
+#contact_me .icon_wa, .icon_mail, .icon_in {
+    height: 90px;
+    width: 90px;
 }
 
 #about_me p {
@@ -58,26 +149,6 @@ section h2 {
 
 section #contact_me {
     padding-bottom: 10pt;
-}
-
-#contact_me table {
-    border: 1px solid black;
-    margin-left: auto;
-    margin-right: auto;
-    padding-bottom: 10pt;
-    padding-left: 20pt;
-    padding-right: 20pt;
-    /* width: 50%; */
-}
-
-#contact_me tr {
-    text-align: center;
-    width: 50px;
-}
-
-#contact_me img {
-    width: 30%;
-    box-shadow: inset;
 }
 
 footer {

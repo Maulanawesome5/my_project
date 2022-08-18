@@ -7,6 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{% static css_element %}">
     <title>{{ title_site }} | {{ author }}</title>
+    <style>
+        /* waiting */
+    </style>
 </head>
 <body>
     <header>
@@ -19,6 +22,7 @@
         <p>{{ author_about }}</p>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque harum dolores hic provident repellat sapiente eligendi numquam voluptatibus animi facere quisquam quae perspiciatis dicta praesentium quasi velit error, architecto quidem?</p>
     </section>
+    <br>
     <section id="ability">
         <h2>Work Ability</h2>
         <ol>
@@ -28,35 +32,94 @@
         </ol>
     </section>
     <section id="education">
-        <h2>Recent Education</h2>
-        <ol>
-            <li>SDN Semambung 2 Sidoarjo</li>
-            <li>SMP Dharma Wanita 1 Sidoarjo</li>
-            <li>SMK Antartika 2 Sidoarjo</li>
-        </ol>
-    </section>
-    <section id="working_experience">
-        <h2>Work Experience</h2>
-        <ol>
-            <li>PT. Insera Sena</li>
-            <li>PT. Agrodana Futures</li>
-        </ol>
-    </section>
-    <section id="contact_me">
-        <h2>Contact Me</h2>
         <table>
-            <tr>
-                <td><img src="{% static icon_wa %}" alt="whatsapp-icon"></td>
-                <td><img src="{% static icon_mail %}" alt="email-icon"></td>
-                <td><img src="{% static icon_in %}" alt="linkedin-icon"></td>
-            </tr>
-            <tr>
-                <td><a target="_blank" href="https://wa.me/6287821615831?text=Halo%20Maulana%20Aji">Whatsapp</a></td>
-                <td><a target="_blank" href="mailto:maulanawesome5@gmail.com?subject=HaloAji!">Email</a></td>
-                <td><a target="_blank" href="https://www.linkedin.com/in/aji-wicaksono300699">LinkedIn</a></td>
-            </tr>
+            <thead>
+                <th><h2>Recent Education</h2></th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p><strong>SDN Semambung 2 Sidoarjo</strong></p>
+                        <p class="education_info">2007 - 2012</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p><strong>Dharma Wanita 1 Sidoarjo</strong></p>
+                        <p class="education_info">2012 - 2014</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p><strong>SMK Antartika 2 Sidoarjo</strong></p>
+                        <p class="education_info">Jurusan Multimedia | 2014 - 2017</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p><strong>Universitas Bhayangkara Surabaya</strong></p>
+                        <p class="education_info">Jurusan Teknik Informatika | 2017 - 20..</p>
+                    </td>
+                </tr>
+            </tbody>
         </table>
     </section>
+    <section id="working_experience">
+        <table>
+            <thead>
+                <th><h2>Work Experience</h2></th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p class="work_position"><strong>Siswa Magang - Incoming Quality Control (IQC)</strong></p>
+                        <p class="work_period">PT. Insera Sena | November 2015 - Januari 2016</p>
+                        {% for job in job_desc_1 %}
+                            <p class="job-desc">- {{ job }}.</p>
+                        {% endfor %}
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="work_position"><strong>Marketing Media Sosial</strong></p>
+                        <p class="work_period">PT. Agrodana Futures | Juli 2020 - Februari 2021</p>
+                        {% for job in job_desc_2 %}
+                            <p class="job-desc">- {{ job }}.</p>
+                        {% endfor %}
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="work_position"><strong>Siswa Magang - Instansi Pemerintah Pusat (IPP)</strong></p>
+                        <p class="work_period">BPKP Provinsi Jawa Timur | April 2021 - April 2021</p>
+                        {% for job in job_desc_3 %}
+                            <p class="job-desc">- {{ job }}.</p>
+                        {% endfor %}
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+    <section id="contact_me">
+        <table>
+            <thead>
+                <th><h2>Contact Me</h2></th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><img class="icon_wa" src="{% static icon_wa %}" alt="whatsapp-icon"></td>
+                    <td><img class="icon_mail" src="{% static icon_mail %}" alt="email-icon"></td>
+                    <td><img class="icon_in" src="{% static icon_in %}" alt="linkedin-icon"></td>
+                </tr>
+                <tr>
+                    <td><a target="_blank" href="https://wa.me/6287821615831?text=Halo%20Maulana%20Aji">Whatsapp</a></td>
+                    <td><a target="_blank" href="mailto:maulanawesome5@gmail.com?subject=HaloAji!">Email</a></td>
+                    <td><a target="_blank" href="https://www.linkedin.com/in/aji-wicaksono300699">LinkedIn</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+    <br><br><br>
     <footer>
         <p class="copyright-mark"><em>&copy 2022 by {{ author }}</em></p>
         <p>Site Navigation</p>
