@@ -229,6 +229,16 @@ Rating : 8.57
 Airing : Spring 2012
 Studio : ufotable
 
+Title  : Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu
+Rating : 7.23
+Airing : Spring 2022
+Studio : Studio Kai, HORNETS
+
+Title  : Genocyber
+Rating : 5.81
+Airing : Winter 1994
+Studio : Artmic
+
 Title  : Ghost in the Shell (Jap: Koukaku Kidoutai)
 Rating : 8.28
 Airing : Fall 1995
@@ -293,6 +303,11 @@ Title  : Hataraku Maou-sama
 Rating : 7.78
 Airing : Spring 2013
 Studio : White Fox
+
+Title  : Hataraku Maou-sama 2
+Rating : 7.78
+Airing : Summer 2022
+Studio : 3Hz
 
 Title  : Hellsing
 Rating : 7.49
@@ -429,10 +444,30 @@ Rating : 8.20
 Airing : Fall 2009
 Studio : Sunrise
 
+Title  : Juubee-chan 1: Lovely Gantai no Himitsu
+Rating : 6.67
+Airing : Spring 1999
+Studio : Madhouse
+
+Title  : Juubee-chan 2: Siberia Yagyuu no Gyakushuu
+Rating : 6.85
+Airing : Winter 2004
+Studio : Madhouse
+
 Title  : Kanojo Okarishimasu
 Rating : 7.23
 Airing : Summer 2020
 Studio : TMS Entertainment
+
+Title  : Kanojo Okarishimasu 2
+Rating : -
+Airing : -
+Studio : TMS Entertainment
+
+Title  : Kawaii dake ja Nai Shikimori-san
+Rating : 6.69
+Airing : Spring 2022
+Studio : Doga Kobo
 
 Title  : Kekkaishi
 Rating : 7.60
@@ -463,6 +498,11 @@ Title  : Kimetsu no Yaiba 2 - Yuukaku hen
 Rating : 8.87
 Airing : Winter 2022
 Studio : Ufotable
+
+Title  : Kinsou no Vermeil to Mahou Sekai no Tsukisusumu
+Rating : 7.33
+Airing : -
+Studio : Staple Entertainment
 
 Title  : Kiseijuu Sei no Kakuritsu (Parasyte)
 Rating : 8.35
@@ -558,6 +598,11 @@ Title  : (Monogatari Series) Tsukimonogatari
 Rating : 8.11
 Airing : Fall 2014
 Studio : SHAFT
+
+Title  : Monster Musume no Oisha-san
+Rating : 6.25
+Airing : Summer 2020
+Studio : Arvo Animation
 
 Title  : Ninja Scroll (Juubee Ninpuuchou)
 Rating : 7.61
