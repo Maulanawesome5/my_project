@@ -924,6 +924,16 @@ Rating : 7.02
 Airing : Winter 2014
 Studio : J.C.Staff
 
+Title  : Youkoso Jitsuryoku Shijou Shugi no Kyoushitsue
+Rating : 7.86
+Airing : Summer 2017
+Studio : Lerche
+
+Title  : Youkoso Jitsuryoku Shijou Shugi no Kyoushitsue 2nd Season
+Rating : 8.03
+Airing : Summer 2022
+Studio : Lerche
+
 Title  : Yuragi sou no Yuuna-san
 Rating : 7.02
 Airing : Summer 2018
